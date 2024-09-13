@@ -26,4 +26,4 @@ When you see any typo or grammatical errors in this documentation, contributions
 - Congrats you're merged !!
 
 :::caution
-If you face any issue or bug with the usage please raise one on the github repository so as we can fix it as soon as possible. 
+If you face any issue or bug with the usage please raise one on the github repository so as we can fix it as soon as possible. .
